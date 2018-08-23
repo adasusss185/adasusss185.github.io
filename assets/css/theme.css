@@ -479,7 +479,7 @@ img {
     padding: 0;
     line-height: 0;
     overflow: hidden;
-    max-height: 220px;
+    max-height: 300px;
 }
 
 .gallery ul li a:before {
