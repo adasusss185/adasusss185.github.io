@@ -1,25 +1,18 @@
 $( document ).ready(function() {
-
-    // jQuery to collapse the navbar on scroll
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
-            $(".fixed-top").addClass("top-nav-collapse");
+            $(".fixed-top").addClass("navbar--dark");
+            $(".fixed-top").removeClass("navbar--light");
         } else {
-            $(".fixed-top").removeClass("top-nav-collapse");
+            $(".fixed-top").addClass("navbar--light");
+            $(".fixed-top").removeClass("navbar--dark");
         }
     });
 
-    // Smooth Scroll
     $('a.page-scroll').click(function(){
         $('html, body').animate({
-            scrollTop: $( $.attr(this, 'href') ).offset().top
-        }, 800);
+            scrollTop: $('.main-page-content').offset().top
+        }, 1000);
         return false;
     });
-
-    // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function() {
-        $('.navbar-toggle:visible').click();
-    });
-
 });
