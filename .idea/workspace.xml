@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f735422-7b02-494b-b32a-fa209455dae1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/background.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bootstrapstarter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newpage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numscroller-1.0.js" beforeDir="false" />
-    </list>
+    <list default="true" id="8f735422-7b02-494b-b32a-fa209455dae1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,23 +75,6 @@
               <item name="adasusss185.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adasusss185.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="adasusss185.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adasusss185.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adasusss185.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adasusss185.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adasusss185.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adasusss185.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -143,18 +110,18 @@
       <option name="presentableId" value="Default" />
       <updated>1536994458738</updated>
       <workItem from="1536994460092" duration="730000" />
-      <workItem from="1536999900693" duration="573000" />
+      <workItem from="1536999900693" duration="1018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1303000" />
+    <option name="totallyTimeSpent" value="1748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -167,7 +134,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
