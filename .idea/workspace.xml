@@ -75,6 +75,11 @@
               <item name="adasusss185.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adasusss185.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="adasusss185.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adasusss185.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -110,12 +115,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536994458738</updated>
       <workItem from="1536994460092" duration="730000" />
-      <workItem from="1536999900693" duration="1018000" />
+      <workItem from="1536999900693" duration="1317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1748000" />
+    <option name="totallyTimeSpent" value="2047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
