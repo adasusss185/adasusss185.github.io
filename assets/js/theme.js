@@ -11,7 +11,7 @@ $( document ).ready(function() {
 
     $('a.page-scroll').click(function(){
         $('html, body').animate({
-            scrollTop: $('.main-page-content').offset().top
+            scrollTop: $('.main-page-content').offset().top + (-70)
         }, 1000);
         return false;
     });
